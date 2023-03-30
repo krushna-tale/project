@@ -4,6 +4,8 @@ class sample
         System.out.println("hi");
         System.out.println("Hello from krushna");
         System.out.println("This is third line");
+         
+    System.out.println("chage from child");
 
     }
 }
